@@ -1,5 +1,6 @@
 {
   "owner": "FirebaseExtended",
   "name": "action-hosting-deploy",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "Automatically deploy shareable previews for your Firebase Hosting sites"
 }
