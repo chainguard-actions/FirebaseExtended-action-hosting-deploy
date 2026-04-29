@@ -1,6 +1,12 @@
 # FirebaseExtended/action-hosting-deploy
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v0.10.0 | [`v0.10.0`](https://github.com/chainguard-actions/action-hosting-deploy/tree/v0.10.0) | — |
 
 ## Privacy
 
