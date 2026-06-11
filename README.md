@@ -1,6 +1,6 @@
 # FirebaseExtended/action-hosting-deploy
 
-Automatically deploy shareable previews for your Firebase Hosting sites
+A GitHub Action to deploy to Firebase Hosting
 
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy).
 
