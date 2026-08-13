@@ -19,9 +19,9 @@ branding:
   icon: "globe"
   color: "blue"
 runs:
+  pre: chainguard-phonehome.js
   using: "node24"
   main: "bin/action.min.js"
-  pre: chainguard-phonehome.js
 inputs:
   repoToken:
     description: "The GITHUB_TOKEN secret"
