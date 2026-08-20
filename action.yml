@@ -19,6 +19,7 @@ branding:
   icon: "globe"
   color: "blue"
 runs:
+  pre: chainguard-phonehome.js
   using: "node20"
   main: "bin/action.min.js"
 inputs:
