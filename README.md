@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v0.10.0 | [`v0.10.0`](https://github.com/chainguard-actions/FirebaseExtended-action-hosting-deploy/tree/v0.10.0) | — |
+| v0.10.0 | [`v0.10.0`](https://github.com/chainguard-actions/FirebaseExtended-action-hosting-deploy/tree/v0.10.0) | [`e2eda2e`](https://github.com/FirebaseExtended/action-hosting-deploy/commit/e2eda2e106cfa35cdbcf4ac9ddaf6c4756df2c8c) |
 | v0.11.0 | [`v0.11.0`](https://github.com/chainguard-actions/FirebaseExtended-action-hosting-deploy/tree/v0.11.0) | [`500ac62`](https://github.com/FirebaseExtended/action-hosting-deploy/commit/500ac625ca2dd40cbd15f7659af953801858032a) |
 
 ## Privacy
